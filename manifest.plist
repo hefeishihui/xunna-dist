@@ -9,7 +9,7 @@
       <array>
         <dict>
           <key>kind</key><string>software-package</key>
-          <key>url</key><string>https://github.com/hefeishihui/xunna-dist/releases/download/ios-1.0.0-2/XunnaFaxi.ipa</string>
+          <key>url</key><string>https://hefeishihui.github.io/xunna-dist/XunnaFaxi.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
